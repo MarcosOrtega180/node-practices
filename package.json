@@ -1,7 +1,9 @@
 {
   "name": "node-practices",
   "version": "1.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "minimist": "^1.2.5"
+  },
   "devDependencies": {
     "dotenv": "^10.0.0"
   }
