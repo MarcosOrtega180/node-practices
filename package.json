@@ -2,7 +2,10 @@
   "name": "node-practices",
   "version": "1.0.0",
   "dependencies": {
-    "minimist": "^1.2.5"
+    "chalk": "^4.1.2",
+    "minimist": "^1.2.5",
+    "nodemon": "^2.0.16",
+    "progress": "^2.0.3"
   },
   "devDependencies": {
     "dotenv": "^10.0.0"
